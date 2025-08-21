@@ -52,7 +52,7 @@ This project uses Maven to build and run the Dataflow job. A deployment script i
     Execute the script from your terminal. The `exec:java` command will compile your code, resolve dependencies, and launch the Dataflow job.
 
     ```bash
-    ./run_dataflow.sh
+    .scripts/run_dataflow.sh
     ```
 
     This script handles all the necessary arguments, including JVM flags for the Java Module System, to ensure a smooth deployment.
