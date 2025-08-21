@@ -33,7 +33,7 @@ This project uses Maven to build and run the Dataflow job. A deployment script i
 1.  **Clone the Repository**
 
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/maheshgoyal15/pubsub-to-bigtable-dataflow.git](https://github.com/maheshgoyal15/pubsub-to-bigtable-dataflow.git)
     cd your-repo-name
     ```
 
