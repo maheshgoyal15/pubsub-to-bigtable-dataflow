@@ -243,14 +243,7 @@
           <version>3.1.0</version>
           <configuration>
           <mainClass>com.google.cloud.dataflow.pubsubtocbt.DataLoadPipeline</mainClass>
-<!--            <executable>/bin/echo</executable>-->
-<!--            <arguments>-->
-<!--              <argument>&#45;&#45;project=${bigtable.projectID}</argument>-->
-<!--              <argument>&#45;&#45;bigtableProjectId=${bigtable.projectID}</argument>-->
-<!--              <argument>&#45;&#45;bigtableInstanceId=${bigtable.instanceID}</argument>-->
-<!--              <argument>&#45;&#45;bigtableTableId=${bigtable.table}</argument>-->
-<!--              <argument>&#45;&#45;stagingLocation=${gs}/staging</argument>-->
-<!--            </arguments>-->
+
           </configuration>
         </plugin>
       </plugins>
